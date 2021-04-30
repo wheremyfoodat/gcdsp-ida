@@ -5,6 +5,9 @@ This project adds support for the DSP present in the Gamecube and the
 Wii to IDA, the Interactive Disassembler [1]. This allows easy analyze
 of a DSP ucode, handling cross-references, control flow, and so on.
 
+This is a port of https://github.com/Tilka/gcdsp-ida
+to make it compatible with Python 3 and the new IDA API.
+
 Requirements
 ------------
 
