@@ -8,9 +8,9 @@ of a DSP ucode, handling cross-references, control flow, and so on.
 Requirements
 ------------
 
-* Python >= 2.6
-* IDA >= 6.1 (other versions may work, not tested)
-* IDAPython >= 1.5.2 (same as IDA, other versions not tested)
+* Python >= 3.6 (other versions > 3 most likely work, not tested)
+* IDA >= 7.5 (other versions may work, not tested)
+* IDAPython >= 7.4.0 (same as IDA, other versions not tested)
 
 How to install?
 ---------------
